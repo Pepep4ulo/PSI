@@ -14,13 +14,13 @@ Diretrizes: Orientações para alcançar os objetivos de segurança.
 Controles: Procedimentos implementados para garantir conformidade.
 Procedimentos: Etapas detalhadas para executar atividades específicas, como resposta a incidentes ou configuração de segurança.
 
-5. ISO 27000
+4. ISO 27000
 A PSI é baseada nas diretrizes da ISO 27000, especialmente ISO 27001 e 27002, que estabelecem padrões para sistemas de gestão de segurança da informação.
 
-6. Legislação
+5. Legislação
 A PSI adere às legislações vigentes, como a Lei Geral de Proteção de Dados (LGPD), que regula o tratamento de dados pessoais. Outras regulamentações também são aplicadas conforme necessário para proteger a privacidade e segurança das informações.
 
-7. Diretrizes Principais
+6. Diretrizes Principais
 A. Autenticação Multifatorial
 Implementar autenticação multifatorial para sistemas críticos.
 Oferecer treinamentos regulares sobre a importância da autenticação multifatorial.
@@ -36,18 +36,18 @@ Restringir o acesso ao servidor de catálogos a usuários autorizados.
 Monitorar alterações nos catálogos e gerar alertas para atividades suspeitas.
 Conduzir auditorias periódicas nas permissões de acesso.
 
-8. Sanções
+7. Sanções
 O não cumprimento da PSI resultará em ações disciplinares, incluindo advertências, suspensões e, em casos graves, rescisão de contrato.
 
-9. Auditoria
+8. Auditoria
 A PSI será auditada regularmente por meio de avaliações internas e externas, revisando logs, incidentes e a eficácia dos controles.
 
-10. Gestão de Incidentes
+9. Gestão de Incidentes
 O plano de resposta a incidentes inclui identificação, registro, resposta, recuperação e análise posterior para melhorar continuamente os procedimentos.
 
-11. Comitê da PSI
+10. Comitê da PSI
 O Comitê da PSI é composto por representantes de vários setores, como administração, TI e jurídico. Ele é responsável por revisar e atualizar a PSI regularmente.
 
-12. Conclusão
+11. Conclusão
 A PSI fortalece a segurança da informação, protege os dados de clientes, assegura conformidade legal e preserva a reputação da organização. Revisões contínuas garantem sua eficácia diante de novas ameaças.
 
