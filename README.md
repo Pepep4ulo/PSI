@@ -1,5 +1,4 @@
 Política de Segurança da Informação (PSI)
-
 1. Objetivo
 A Política de Segurança da Informação (PSI) tem como propósito definir diretrizes e controles para proteger as informações da organização, assegurando a confidencialidade, integridade e disponibilidade dos dados. Busca mitigar riscos, garantir conformidade com leis e regulamentos, e fortalecer a segurança dos ativos de informação.
 
@@ -37,18 +36,18 @@ Restringir o acesso ao servidor de catálogos a usuários autorizados.
 Monitorar alterações nos catálogos e gerar alertas para atividades suspeitas.
 Conduzir auditorias periódicas nas permissões de acesso.
 
-9. Sanções
+8. Sanções
 O não cumprimento da PSI resultará em ações disciplinares, incluindo advertências, suspensões e, em casos graves, rescisão de contrato.
 
-10. Auditoria
+9. Auditoria
 A PSI será auditada regularmente por meio de avaliações internas e externas, revisando logs, incidentes e a eficácia dos controles.
 
-11. Gestão de Incidentes
+10. Gestão de Incidentes
 O plano de resposta a incidentes inclui identificação, registro, resposta, recuperação e análise posterior para melhorar continuamente os procedimentos.
 
-12. Comitê da PSI
+11. Comitê da PSI
 O Comitê da PSI é composto por representantes de vários setores, como administração, TI e jurídico. Ele é responsável por revisar e atualizar a PSI regularmente.
 
-13. Conclusão
+12. Conclusão
 A PSI fortalece a segurança da informação, protege os dados de clientes, assegura conformidade legal e preserva a reputação da organização. Revisões contínuas garantem sua eficácia diante de novas ameaças.
 
